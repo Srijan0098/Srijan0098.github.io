@@ -1,1 +1,1 @@
-This repository contains my updated resume as of November 12, 2021.
+This repository contains my updated resume as of November 15, 2021.
